@@ -83,18 +83,6 @@ Projeto voltado para criação de formulários modernos, responsivos e intuitivo
 
 ---
 
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=biasilveiira&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biasilveiira&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📚 Atualmente estudando
 
 * Desenvolvimento Web com TypeScript
